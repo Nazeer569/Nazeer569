@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="26" started-at="2021-08-31T20:08:19 IST" finished-at="2021-08-31T20:08:19 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="26" started-at="2021-08-31T20:08:19 IST" finished-at="2021-08-31T20:08:19 IST">
+      <class name="BDDMavenGroup.AppiumTest">
+        <test-method status="PASS" signature="appTest()[pri:0, instance:BDDMavenGroup.AppiumTest@2758fe70]" name="appTest" duration-ms="3" started-at="2021-08-31T20:08:19 IST" finished-at="2021-08-31T20:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appTest -->
+      </class> <!-- BDDMavenGroup.AppiumTest -->
+      <class name="BDDMavenGroup.SeleniumTest">
+        <test-method status="PASS" signature="sTest()[pri:0, instance:BDDMavenGroup.SeleniumTest@4973813a]" name="sTest" duration-ms="0" started-at="2021-08-31T20:08:19 IST" finished-at="2021-08-31T20:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sTest -->
+      </class> <!-- BDDMavenGroup.SeleniumTest -->
+      <class name="BDDMavenGroup.RestAssureTest">
+        <test-method status="PASS" signature="r()[pri:0, instance:BDDMavenGroup.RestAssureTest@3a883ce7]" name="r" duration-ms="0" started-at="2021-08-31T20:08:19 IST" finished-at="2021-08-31T20:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- r -->
+      </class> <!-- BDDMavenGroup.RestAssureTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
